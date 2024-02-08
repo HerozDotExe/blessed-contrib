@@ -17,7 +17,6 @@
   "license": "MIT",
   "devDependencies": {
     "@types/blessed": "^0.1.6",
-    "blessed": "0.1.54",
     "colors": "^1.1.2",
     "eslint": "^5.11.0",
     "eslint-config-standard": "^12.0.0",
@@ -27,6 +26,7 @@
     "eslint-plugin-standard": "^4.0.0"
   },
   "dependencies": {
+    "@subject026/blessed": "^0.2.85",
     "ansi-term": ">=0.0.2",
     "chalk": "^1.1.0",
     "drawille-canvas-blessed-contrib": ">=0.1.3",
